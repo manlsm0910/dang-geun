@@ -1,4 +1,4 @@
-app.pyimport streamlit as st
+import streamlit as st
 
 # 1. 페이지 설정
 st.set_page_config(page_title="이상권 명품 시계 검색기", page_icon="🥕", layout="centered")
